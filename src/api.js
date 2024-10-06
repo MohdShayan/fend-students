@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const API_URL = 'http://localhost:3008/api/students';
+const API_URL = 'https://stud-record.vercel.app/api/students';
 
 export const getStudents = async (filterOptions) => {
   const {course,age}= filterOptions;
