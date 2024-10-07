@@ -95,7 +95,7 @@ const StudentCard = ({ student, fetchStudents }) => {
       className="border"
     >
       <Image
-        src="https://cdn.vectorstock.com/i/500p/11/69/blank-avatar-profile-picture-vector-45161169.jpg"
+        src="https://static.vecteezy.com/system/resources/thumbnails/007/469/004/small/graduated-student-in-simple-flat-personal-profile-icon-or-symbol-people-concept-illustration-vector.jpg"
         alt={student.name}
         h={48}
         w="full"
